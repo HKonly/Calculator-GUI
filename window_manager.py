@@ -3,7 +3,7 @@ from PySide6.QtCore import Slot
 from calculator import calculator
 
 BTN_NAMES = ['%', 'CE', 'C', '←',
-            '1/x', 'x²', 'r2', '/',
+            '1/x', 'x²', '^½', '/',
             '7', '8', '9', '*',
             '4', '5', '6', '-',
             '1', '2', '3', '+',
